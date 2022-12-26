@@ -8,8 +8,8 @@
             <table border="1px">
                 <tr>
                     <th>Planets</th>
-                    <th>Day Length(In earth hours)</th>
-                    <th>Year Length(In earth day)</th>
+                    <th>Day Length (In earth hours)</th>
+                    <th>Year Length (In earth day)</th>
                 </tr>
                 <tr>
                     <th>Mercury</th>
